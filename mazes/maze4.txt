@@ -1,0 +1,15 @@
+*X*X*****X*X*X*****
+*X*XXXXX*X*X*X*XXXX
+***X***********X***
+*XXXXX*XXX*XXX*X*XX
+***X*X*X***X*X*****
+*XXX*X*X*X*X*XXXXXX
+*******X*X*X*******
+*XXXXXXXXXXX*XXXXXX
+*******X***X*******
+*XXXXXXXXX*X*XXXXXX
+*******X***********
+XX*X*X*X*XXX*XXX*XX
+***X*X*****X*X*****
+XXXXXXXXXXXXXXXXXX*
+*******************
